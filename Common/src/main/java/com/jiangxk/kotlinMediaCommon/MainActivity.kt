@@ -1,4 +1,4 @@
-package com.jiangxk.kotlinMedia
+package com.jiangxk.kotlinMediaCommon
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,1 +1,1 @@
-include ':app', ':Home'
+include ':app', ':Common', ':Home', ':Provider'
